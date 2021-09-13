@@ -1,0 +1,25 @@
+.Email {
+    font-size: 16px
+}
+
+.AppHeader {
+    background-color: #282c34;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .Container {
+      padding-top: 64px;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+
+
+  
